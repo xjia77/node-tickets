@@ -1,4 +1,4 @@
-# node-tickets
+# node tickets
 Node.js train ticket search
 
 ## environment
